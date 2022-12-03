@@ -10,7 +10,7 @@ public class Main {
 
             int attempt = new Scanner(System.in).nextInt();
             if (attempt == value) {
-                System.out.println("Вы угадали");
+                System.out.println("Вы угадали!!!!!!!!!!!!!!!!!!!!!!!!!");
                 break;
 
             }
